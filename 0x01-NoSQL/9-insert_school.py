@@ -1,6 +1,7 @@
-#!/usr/bin/bash python3
-"""Inserts  a new document in a collection based on kwargs"""
-
+#!/usr/bin/env python3
+"""
+Insert a document in Python
+"""
 import pymongo
 
 
