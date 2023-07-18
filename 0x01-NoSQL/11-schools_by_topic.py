@@ -1,5 +1,6 @@
 #!/usr/bin/bash python3
-"""function that returns the list of school having a specific topic
+"""
+function that returns the list of school having a specific topic
 """
 import pymongo
 
